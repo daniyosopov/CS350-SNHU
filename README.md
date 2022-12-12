@@ -1,4 +1,8 @@
 # CS350-SNHU
+Summarize the project and what problem it was solving.
+This project uses TI board CC3220X to create a smart thermostat.
+This thermostat is using internal temperature sensor to detect if need to turn on or off the heater according tho the users set temperature.
+
 What did you do particularly well?
 The thing that I did particularly well was simplifying the project when it comes to the coding algorithm, and learning how to use the drivers from the TI board for the first time.
 
